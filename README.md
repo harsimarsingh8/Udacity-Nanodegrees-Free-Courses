@@ -1,5 +1,5 @@
 # Udacity-Nanodegrees-Free-Courses
-ðŸŽ“ List of all Udacity Nanodegree programs with links to the free courses in their curricula :smile:
+Ã°Å¸Å½â€œ List of all Udacity Nanodegree programs with links to the free courses in their curricula :smile:
 
 ----------------------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ website are part of this list.
   * <a href="https://www.paypal.me/mikesprague/5" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_200x51.png" alt="PayPal.me/mikesprague" style="width: 120px;"></a>
 
 ---
-
+ 
 ## Table of Contents
 
   * [Front-End Web Developer Nanodegree](#front-end-web-developer-nanodegree)
@@ -82,7 +82,7 @@ This program begins where our Front-End Web Developer Nanodegree program ends,
 and is designed to give intermediate developers the chance to build on existing
 front-end skills and master the newest technologies available.
 
-This program ensures you’re supremely well-prepared to succeed in a Senior Web
+This program ensures youâ€™re supremely well-prepared to succeed in a Senior Web
 Developer role.
 
   1.  [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
@@ -103,7 +103,7 @@ This program will prepare you for a job as a Full Stack Web Developer, and teach
 you to build complex server-side web applications that use powerful relational
 databases to persistently store data.
 
-You’ll learn to build applications that can support any front-end, and scale to
+Youâ€™ll learn to build applications that can support any front-end, and scale to
 support hundreds of thousands of users.
 
   1. [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
@@ -179,7 +179,7 @@ healthcare, education, and more.
 
 Our Tech Entrepreneur Nanodegree program teaches you the skills you need to
 create your own revenue-generating app, and build a successful business around
-it. You’ll learn to succeed the Silicon Valley way!
+it. Youâ€™ll learn to succeed the Silicon Valley way!
 
 Built in partnership with Google, this program mixes theory and practice to
 show students how to transform ideas into market-ready products.
@@ -231,10 +231,10 @@ future.
 
 ### iOS Developer Nanodegree
 
-Being an iOS Developer is a remarkable occupation, and we’ve designed this
+Being an iOS Developer is a remarkable occupation, and weâ€™ve designed this
 Nanodegree program to teach you the skills required to launch your career.
 
-For those with previous object-oriented programming experience, you’ll learn
+For those with previous object-oriented programming experience, youâ€™ll learn
 Swift and build a multitude of portfolio-worthy iOS apps to demonstrate your
 expertise as an iOS Developer.
 
@@ -275,7 +275,7 @@ strategies, demand for business analysts with these skills is growing rapidly,
 and salaries are rising. This Nanodegree program will equip you with these very
 in-demand skills, and no programming experience is required to enroll!
 
-You’ll master the most important predictive techniques, work with leading
+Youâ€™ll master the most important predictive techniques, work with leading
 tools in the space, and learn to deliver high-value solutions to important
 business problems.
 
