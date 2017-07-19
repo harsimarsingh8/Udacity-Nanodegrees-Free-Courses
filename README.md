@@ -2,7 +2,7 @@
 ðŸŽ“ List of all Udacity Nanodegree programs with links to the free courses in their curricula :smile:
 
 ----------------------------------------------------------------------------------------------
- 
+  
 
 [Udacity](https://www.udacity.com/) offers some great courses in their
 [Nanodegree](https://www.udacity.com/nanodegree) programs. If you don't have
